@@ -1,0 +1,195 @@
+[
+    {
+      "name": "Alice Johnson",
+      "years_of_experience": 1,
+      "work_experience": [
+        {
+          "company": "Startup X",
+          "role": "Software Developer Intern",
+          "duration": "6 months"
+        }
+      ],
+      "skills": ["JavaScript", "React", "Node.js", "REST APIs", "Git"]
+    },
+    {
+      "name": "James Smith",
+      "years_of_experience": 3,
+      "work_experience": [
+        {
+          "company": "Tech Solutions Inc.",
+          "role": "Junior Software Developer",
+          "duration": "2 years"
+        }
+      ],
+      "skills": ["Python", "Django", "PostgreSQL", "AWS", "Docker"]
+    },
+    {
+      "name": "Sophia Lee",
+      "years_of_experience": 7,
+      "work_experience": [
+        {
+          "company": "Fintech Co.",
+          "role": "Senior Software Engineer",
+          "duration": "5 years"
+        }
+      ],
+      "skills": ["Java", "Spring Boot", "Microservices", "Kafka", "Kubernetes"]
+    },
+    {
+      "name": "Liam Brown",
+      "years_of_experience": 2,
+      "work_experience": [
+        {
+          "company": "E-commerce Corp.",
+          "role": "Software Developer",
+          "duration": "2 years"
+        }
+      ],
+      "skills": ["TypeScript", "Vue.js", "GraphQL", "Firebase", "Jest"]
+    },
+    {
+      "name": "Olivia Martin",
+      "years_of_experience": 5,
+      "work_experience": [
+        {
+          "company": "Cloud Systems",
+          "role": "Full-Stack Developer",
+          "duration": "5 years"
+        }
+      ],
+      "skills": ["Go", "Next.js", "PostgreSQL", "Redis", "CI/CD"]
+    },
+    {
+      "name": "Ethan Carter",
+      "years_of_experience": 1,
+      "work_experience": [
+        {
+          "company": "AI Startup",
+          "role": "Machine Learning Intern",
+          "duration": "6 months"
+        }
+      ],
+      "skills": ["Python", "Pandas", "TensorFlow", "Jupyter", "SQL"]
+    },
+    {
+      "name": "Ava Robinson",
+      "years_of_experience": 4,
+      "work_experience": [
+        {
+          "company": "Tech AI Labs",
+          "role": "Machine Learning Engineer",
+          "duration": "3 years"
+        }
+      ],
+      "skills": ["PyTorch", "Scikit-learn", "AWS Sagemaker", "NLP", "Data Pipelines"]
+    },
+    {
+      "name": "Noah Walker",
+      "years_of_experience": 8,
+      "work_experience": [
+        {
+          "company": "Big Data Corp",
+          "role": "Senior ML Engineer",
+          "duration": "6 years"
+        }
+      ],
+      "skills": ["Deep Learning", "Hugging Face", "Kubernetes", "MLOps", "Airflow"]
+    },
+    {
+      "name": "Isabella Scott",
+      "years_of_experience": 2,
+      "work_experience": [
+        {
+          "company": "Retail AI",
+          "role": "Machine Learning Engineer",
+          "duration": "2 years"
+        }
+      ],
+      "skills": ["Computer Vision", "OpenCV", "YOLO", "CNNs", "Docker"]
+    },
+    {
+      "name": "William Green",
+      "years_of_experience": 5,
+      "work_experience": [
+        {
+          "company": "Healthcare AI",
+          "role": "ML Engineer",
+          "duration": "5 years"
+        }
+      ],
+      "skills": ["Time Series Analysis", "XGBoost", "Feature Engineering", "Model Deployment", "Flask"]
+    },
+    {
+      "name": "Mia White",
+      "years_of_experience": 1,
+      "work_experience": [
+        {
+          "company": "Data Insights",
+          "role": "Data Science Intern",
+          "duration": "6 months"
+        }
+      ],
+      "skills": ["SQL", "Pandas", "Matplotlib", "Statistics", "Power BI"]
+    },
+    {
+      "name": "Lucas Hall",
+      "years_of_experience": 3,
+      "work_experience": [
+        {
+          "company": "Finance Analytics",
+          "role": "Data Scientist",
+          "duration": "3 years"
+        }
+      ],
+      "skills": ["R", "Bayesian Statistics", "A/B Testing", "Machine Learning", "BigQuery"]
+    },
+    {
+      "name": "Charlotte Adams",
+      "years_of_experience": 6,
+      "work_experience": [
+        {
+          "company": "E-commerce Analytics",
+          "role": "Senior Data Scientist",
+          "duration": "5 years"
+        }
+      ],
+      "skills": ["Python", "Data Engineering", "Hadoop", "Spark", "Feature Stores"]
+    },
+    {
+      "name": "Benjamin Torres",
+      "years_of_experience": 2,
+      "work_experience": [
+        {
+          "company": "Retail Analytics",
+          "role": "Data Scientist",
+          "duration": "2 years"
+        }
+      ],
+      "skills": ["Predictive Modeling", "Logistic Regression", "SQL", "Matplotlib", "Seaborn"]
+    },
+    {
+      "name": "Emma Gonzalez",
+      "years_of_experience": 4,
+      "work_experience": [
+        {
+          "company": "Marketing AI",
+          "role": "Marketing Analyst",
+          "duration": "4 years"
+        }
+      ],
+      "skills": ["SEO", "Google Analytics", "PPC", "Email Marketing", "A/B Testing"]
+    },
+    {
+      "name": "Oliver Wright",
+      "years_of_experience": 3,
+      "work_experience": [
+        {
+          "company": "Social Media Co.",
+          "role": "Digital Marketer",
+          "duration": "3 years"
+        }
+      ],
+      "skills": ["Facebook Ads", "Content Marketing", "Influencer Marketing", "Google Ads", "Copywriting"]
+    }
+  ]
+  
