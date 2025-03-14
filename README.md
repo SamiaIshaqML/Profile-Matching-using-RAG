@@ -5,7 +5,7 @@ The purpose of this app is to match the search to relevant job candidates while 
 Dependencies to install:
 pip install streamlit supabase openai
 
-To run the app locally:
+To run the app locally: 
 streamlit run rag_agent.py
 
 Tech stack:
@@ -15,5 +15,5 @@ Tech stack:
 4. Cursor to help automate
 5. Streamlit for deploying
 
-##App Deployed
+#App Deployed
 https://profile-matching-using-raggit-bpqwhs8aop5bxi9zzaxkqp.streamlit.app
