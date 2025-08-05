@@ -7,9 +7,9 @@ import dotenv
 from dotenv import load_dotenv
 
 # environment variables'
-SUPABASE_URL="https://qllafsgiqcgzzazvwfwr.supabase.co";
-SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFsbGFmc2dpcWNnenphenZ3ZndyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE4OTk4MjIsImV4cCI6MjA1NzQ3NTgyMn0.vLneDXWFjl2jT3EVFsABCqAeQJA0ZmeKPyVAlaCGvng" 
 load_dotenv()
+SUPABASE_URL=os.getenv("SUPABASE_URL")
+SUPABASE_KEY= os.getenv("SUPABASE_KEY")
 openai_api_key= os.getenv("OPENAI_API_KEY")
 
 # Initialize supabaseclients
