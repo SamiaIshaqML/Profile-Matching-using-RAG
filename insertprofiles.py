@@ -4,9 +4,13 @@ from supabase import create_client
 from openai import OpenAI
 import json
 
-os.environ["SUPABASE_URL"]="https://qllafsgiqcgzzazvwfwr.supabase.co";
-os.environ["SUPABASE_KEY"]="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFsbGFmc2dpcWNnenphenZ3ZndyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE4OTk4MjIsImV4cCI6MjA1NzQ3NTgyMn0.vLneDXWFjl2jT3EVFsABCqAeQJA0ZmeKPyVAlaCGvng" 
+import dotenv
+from dotenv import load_dotenv
 
+# environment variables'
+load_dotenv()
+SUPABASE_URL=os.getenv("SUPABASE_URL")
+SUPABASE_KEY= os.getenv("SUPABASE_KEY")
 # Initialize clients
 supabase = create_client(os.environ["SUPABASE_URL"], os.environ["SUPABASE_KEY"])
 openai.api_key = s.getenv("OPENAI_API_KEY")
